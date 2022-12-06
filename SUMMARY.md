@@ -1,4 +1,5 @@
 # Table of contents
 
 * [LTX Meetup Plan](README.md)
-* [Graphs](graphs.md)
+* [Flight Graphs](flight-graphs.md)
+* [Hotel Graphs](hotel-graphs.md)
