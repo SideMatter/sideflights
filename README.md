@@ -29,8 +29,28 @@ Heyo! If you are here your probably looking for information regarding the top se
 ### How do I find the best flights
 
 > Two ways:\
-> &#x20;If you’d rather find and book your own flights, then you can do that and just notify SideMatter#0001 on the LTX discord with your plans. I (SideMatter) just need your Itinerary for flights (Departing airport, airline, flight code, layover airports, times and timezones for each leg, etc) Feel free to DM me that info. In accordance with sidematter industries privacy policy, it will only be used to create the graphs in the discord (and maybe posted here with consent) The site I use is called https://skiplagged.com\
+> &#x20;If you’d rather find and book your own flights, then you can do that and just notify SideMatter#0001 on the LTX discord with your plans. I (SideMatter) just need your Itinerary for flights (Departing airport, airline, flight code, layover airports, times and timezones for each leg, etc) Feel free to DM me that info. In accordance with sidematter industries privacy policy, it will only be used to create the graphs in the discord (and maybe posted here with consent) The site I use is called [skiplagged](https://skiplagged.com)\
 > If you’d rather not think about it and have me find your flights, simply send me your departing airport and preferences (what airlines you like, window middle or aisle seat etc) I will start tracking prices and notify you when it gets to a reasonable price. I’ll also add it to the tracking graphs, so you can get a glimpse of how the price changes over time. \
 > If you choose to book, let me know when, and i’ll lock you in on the various graphs
 
-###
+### What is Trusted Traveler Programs and why should I care
+
+{% hint style="warning" %}
+Global Entry application processing times are extremly high right now, so there is a very real possiblity that it could not be ready by LTX, even more so if you don't currently posses a valid US passport. You have been warned
+{% endhint %}
+
+> Trusted Traveler Programs are programs that if enrolled allow you to use the TSA PreCheck line at your local airports. There’s only two that matter for us and that is TSA Precheck and Global Entry. I suggest TSA Precheck for almost everyone, but some people _cough Frame cough_ want to explore both so fine
+
+### What is the "Party Plane"
+
+> The party plane is a meme that turned into reality. It just so happened that everyones flights could be on the same airline and as such got dubbed the party plane. if was going to be on american from DFW to YVR but it has since been changed to Delta from SLC to YVR (because apparently delta loves SLC for some reason and not at all because thats my departing airport. That would be crazy)&#x20;
+
+## Hotels
+
+### Where are we staying
+
+> No idea, will be updated closer to departure
+
+### Who is staying where?
+
+> Nobody has booked any lodging, will update closer to departure
